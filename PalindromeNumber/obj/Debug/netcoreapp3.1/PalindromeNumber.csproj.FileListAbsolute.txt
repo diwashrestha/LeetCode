@@ -1,0 +1,13 @@
+F:\PROJECTS\LeetCode\PalindromeNumber\bin\Debug\netcoreapp3.1\PalindromeNumber.exe
+F:\PROJECTS\LeetCode\PalindromeNumber\bin\Debug\netcoreapp3.1\PalindromeNumber.deps.json
+F:\PROJECTS\LeetCode\PalindromeNumber\bin\Debug\netcoreapp3.1\PalindromeNumber.runtimeconfig.json
+F:\PROJECTS\LeetCode\PalindromeNumber\bin\Debug\netcoreapp3.1\PalindromeNumber.runtimeconfig.dev.json
+F:\PROJECTS\LeetCode\PalindromeNumber\bin\Debug\netcoreapp3.1\PalindromeNumber.dll
+F:\PROJECTS\LeetCode\PalindromeNumber\bin\Debug\netcoreapp3.1\PalindromeNumber.pdb
+F:\PROJECTS\LeetCode\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.csprojAssemblyReference.cache
+F:\PROJECTS\LeetCode\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.csproj.CoreCompileInputs.cache
+F:\PROJECTS\LeetCode\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.AssemblyInfoInputs.cache
+F:\PROJECTS\LeetCode\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.AssemblyInfo.cs
+F:\PROJECTS\LeetCode\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.dll
+F:\PROJECTS\LeetCode\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.pdb
+F:\PROJECTS\LeetCode\PalindromeNumber\obj\Debug\netcoreapp3.1\PalindromeNumber.genruntimeconfig.cache
