@@ -1,0 +1,13 @@
+F:\PROJECTS\LeetCode\Roman to Integer\bin\Debug\netcoreapp3.1\Roman to Integer.exe
+F:\PROJECTS\LeetCode\Roman to Integer\bin\Debug\netcoreapp3.1\Roman to Integer.deps.json
+F:\PROJECTS\LeetCode\Roman to Integer\bin\Debug\netcoreapp3.1\Roman to Integer.runtimeconfig.json
+F:\PROJECTS\LeetCode\Roman to Integer\bin\Debug\netcoreapp3.1\Roman to Integer.runtimeconfig.dev.json
+F:\PROJECTS\LeetCode\Roman to Integer\bin\Debug\netcoreapp3.1\Roman to Integer.dll
+F:\PROJECTS\LeetCode\Roman to Integer\bin\Debug\netcoreapp3.1\Roman to Integer.pdb
+F:\PROJECTS\LeetCode\Roman to Integer\obj\Debug\netcoreapp3.1\Roman to Integer.csprojAssemblyReference.cache
+F:\PROJECTS\LeetCode\Roman to Integer\obj\Debug\netcoreapp3.1\Roman to Integer.AssemblyInfoInputs.cache
+F:\PROJECTS\LeetCode\Roman to Integer\obj\Debug\netcoreapp3.1\Roman to Integer.AssemblyInfo.cs
+F:\PROJECTS\LeetCode\Roman to Integer\obj\Debug\netcoreapp3.1\Roman to Integer.csproj.CoreCompileInputs.cache
+F:\PROJECTS\LeetCode\Roman to Integer\obj\Debug\netcoreapp3.1\Roman to Integer.dll
+F:\PROJECTS\LeetCode\Roman to Integer\obj\Debug\netcoreapp3.1\Roman to Integer.pdb
+F:\PROJECTS\LeetCode\Roman to Integer\obj\Debug\netcoreapp3.1\Roman to Integer.genruntimeconfig.cache
